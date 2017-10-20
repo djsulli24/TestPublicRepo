@@ -1,0 +1,39 @@
+.container {
+	width: 1024px;
+	margin: 0 auto;
+}
+
+#bio-image {
+	margin-right: 10px;
+	width: 200px;
+}
+
+#main-bio {
+	width: 70%;
+}
+
+#contact-info {
+	width: 30%;
+}
+
+#bio-image, #main-bio, #contact-info {
+	float: left;
+}
+
+body {
+	background-color: #efeee7;
+	padding: 0;
+	margin: 0;
+}
+
+h1 {
+	color: #eee;
+	background-color: #353535;
+	text-align: center;
+	padding: 20px 0;
+	margin: 0;
+}
+
+a {
+	color: #d21034;
+}
